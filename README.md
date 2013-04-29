@@ -14,9 +14,9 @@ Getting Started
 
 1. Install Python ( min 2.7 ) and all prerequisites
 
-    * [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/)
-    * [python-iptools](https://github.com/bd808/python-iptools)
-    * [py2exe](http://www.py2exe.org/)
+* [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/)
+* [python-iptools](https://github.com/bd808/python-iptools)
+* [py2exe](http://www.py2exe.org/)
 
 2. Generate the .exe file
 
